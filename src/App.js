@@ -52,7 +52,7 @@ function App() {
         aria-describedby="alert-dialog-description"
       >
         <DialogTitle id="alert-dialog-title">
-          {"Уничтожать Назем 1/0"}
+          {"Диалоговое окно"}
         </DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
